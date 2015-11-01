@@ -1,0 +1,11 @@
+#slide-3 {
+  background: url('media/programing.jpg');
+  background-size: cover;
+  color: #eee;
+}
+
+#slide-10 {
+  background: url('media/dcc.jpg');
+  background-size: cover;
+  color: #eee;
+}
