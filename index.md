@@ -25,6 +25,25 @@ controls: false
 
 --
 
+# No son la nota que se sacan
+## Valen mucho más que eso
+
+--
+
+### Resiliencia
+
+#### *"Capacidad humana de asumir con flexibilidad situaciones límite y sobreponerse a ellas"*
+
+--
+
+### A todos nos cuesta
+
+* La universidad consume mucho tiempo
+* No se maten por las notas
+* Estudien algo que les guste 👍
+
+--
+
 # Especialidad en Computación
 ## "Los magos del siglo XXI"
 
@@ -46,19 +65,26 @@ Solo necesitas tu computador 💗💻
 
 Es inevitable, **en todas partes se necesitan expertos en computación.**
 
+Muchas cosas se pueden hacer más fáciles programando.
+
+... de hecho, estas slides están "programadas" en un lenguaje llamado `Markdown` y `HTML`.
+
 --
 
 ### ¿Qué estudiamos?
 
-* Ingeniería de Software
-* Desarrollo de Software
-* Inteligencia Artificial (IA)
-* Aprendizaje de Máquina
-* Bases de Datos
-* Lógica y Teoría de la Computación
-* Etc.
-
 Saber programar es solo la herramienta más básica.
+
+* ☕ Ingeniería de Software
+* 📱 Desarrollo de Software
+* 💼 Tecnologías de la Información
+* 👾 Inteligencia Artificial (IA)
+* 📚 Aprendizaje de Máquina
+* 🐘 Bases de Datos
+* 🌐 Lógica y Teoría de la Computación
+* 📷 Procesamiento de Imágenes
+
+Usamos una matemática *distinta*
 
 --
 
@@ -73,10 +99,12 @@ Saber programar es solo la herramienta más básica.
 ### ¿Soy capaz?
 
 ```json
-skill_set = {
-  "paciencia",
-  "motivación",
-  "pensamiento lógico"
+{
+  skill_set = [
+    "paciencia",
+    "motivación",
+    "pensamiento lógico"
+  ]
 }
 ```
 
@@ -85,10 +113,12 @@ skill_set = {
 ### ¿Soy capaz?
 
 ```json
-skill_set = {
-  "paciencia",
-  "motivación",
-  "pensamiento lógico"
+{
+  skill_set = [
+    "paciencia",
+    "motivación",
+    "pensamiento lógico"
+  ]
 }
 ```
 
@@ -96,7 +126,7 @@ skill_set = {
 
 --
 
-# DDC
+# DCC
 ## Departamento de la Ciencia de la Computación
 
 --
@@ -105,8 +135,10 @@ skill_set = {
 
 Nuestro departamento:
 
-* Edificio San Agustín, 4º piso
-* Gente motivada, todos saben hacer cosas distintas
+* 🏫 Edificio San Agustín, 4º piso
+* 💡 Gente motivada
+* 💎 Cada uno sabe cosas nuevas o distintas
+* 🉐 Las demás ingenierías dicen que hablamos chino
 
 
 *Cosas que __no__ hacemos:*
