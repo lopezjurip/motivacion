@@ -22,6 +22,7 @@ controls: false
 * Desarrollador de la app _**Alma Máter UC**_
 * Ayudante de ramos de programación
 * Amante del Open Source
+* Sitio web: [**lopezjuri.com**](lopezjuri.com)
 
 --
 
